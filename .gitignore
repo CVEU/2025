@@ -1,1 +1,7 @@
+<<<<<<< HEAD
+.*DS_Store
+.jekyll-cache/
+_site/
+=======
 .DS_Store
+>>>>>>> 7dc3dd416fc31a4e61c2b7c94229873ac9cfcfdb
